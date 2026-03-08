@@ -1,2 +1,1 @@
-# hexlet
-hexlet practice task
+Hello, Hexlet! How are you?
